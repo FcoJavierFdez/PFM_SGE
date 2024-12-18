@@ -1,0 +1,8 @@
+javier@DESKTOP-30L1KT9:~/odoo_dev/odoodock/scripts$ sudo apt install python3-venv
+
+javier@DESKTOP-30L1KT9:~/odoo_dev/odoodock/scripts$ python3 -m venv venv
+javier@DESKTOP-30L1KT9:~/odoo_dev/odoodock/scripts$ source venv/bin/activate
+(venv) javier@DESKTOP-30L1KT9:~/odoo_dev/odoodock/scripts$ pip3 install load-dotenv
+
+(venv) javier@DESKTOP-30L1KT9:~/odoo_dev/odoodock/scripts$ ./database_backup.py 2425_FERNANDEZ_FRANCISCOJAVIER_12790688
+-sr javier@javier.com -ps 381974
