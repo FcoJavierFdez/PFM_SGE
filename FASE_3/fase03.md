@@ -1,18 +1,18 @@
-**************************
+
 ECHOCAR, IB, SA.
-**************************
+
 
 **PROYECTO FINAL MODULO**
 
 # FASE 3
 
-**************************
-MÓDULOS IMPLANTADOS
-**************************
 
-**************************
+MÓDULOS IMPLANTADOS
+
+
+
 1er. módulo: Facturación.
-**************************
+
 Nombre técnico: account
 Licencia: LGPL versión 3
 Categoría: Contabilidad
@@ -34,9 +34,9 @@ En las facturaciones realizadas he configurado el pago con pago por transferenci
 existe la posibilidad con SEPA, pero esa opción esta de pago.
 
 
-**************************
+
 2o. módulo: Empleados.
-**************************
+
 Nombre técnico: hr
 Licencia: LGPL versión 3
 Categoría: Empleados
@@ -53,9 +53,9 @@ Dirección y Sales. He creado un control de asistencias, que deriva a otro modul
 he permitido a los usuarios que modifiquen sus datos personales. 
 
 
-**************************
+
 3er. módulo: Compras.
-**************************
+
 Nombre técnico: purchase
 Licencia: LGPL versión 3
 Categoría: Compra
@@ -76,9 +76,9 @@ la cantidad de dinero pueden cubrirse gastos de materiales necesitarios de ofici
 gastos. las demás opciones estan configuradas según la forma predefinida.
 
 
-**************************
+
 4o. módulo: Ventas.
-**************************
+
 Nombre técnico: sale_management
 Licencia: LGPL versión 3
 Categoría: Ventas
@@ -93,9 +93,9 @@ activación de la opción “Firma en linea” que permite a los clientes confir
 internet mediante una firma.
 
 
-**************************
+
 5o. módulo: Encuestas.
-**************************
+
 Nombre técnico: survey
 Licencia: LGPL versión 3
 Categoría: Encuesteas
@@ -113,9 +113,9 @@ Configuración realizada: He creado una encuesta llamada Survey NPS por la que m
 recibirá un correo evaluandola en una matriz con 3 respuestas posibles.
 
 
-***************************
+
 6o. módulo: Inventario.
-***************************
+
 Nombre Técnico: stock
 Licencia: LGPL versión 3
 Categoría: Inventario
@@ -131,9 +131,9 @@ de los productos que ya habia creado, los vehiculos como productos, he creado po
 con su precio de compra, su proveedor y la ubicación de almacenamiento para que se sepa en que lugar se 
 encuentra este producto.
 
-****************************
+
 7o. módulo: CRM.
-****************************
+
 Nombre Técnico: crm
 Licencia: LGPL versión 3
 Categoría: CRM
