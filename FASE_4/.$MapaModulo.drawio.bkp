@@ -1,0 +1,118 @@
+<mxfile host="Electron" modified="2025-02-25T18:15:05.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="sIRu4HjT-UfYTqOoFwMY" version="22.0.2" type="device">
+  <diagram name="Página-1" id="Iatt-nyXAmyYhDa6BIiW">
+    <mxGraphModel dx="2103" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xcxIXfEm2XjzNP6erZau-15" value="Pantalla login con logotipo empresa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-16" value="Pantalla visualizar coches" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-17" value="Pantalla nuevo alquiler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-18" value="Pantalla gestión de vehiculos&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-19" value="Pantalla gestión de alquiler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-20" value="Pantalla gestión de equipamientos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-21" value="Pantalla generación de contrato de alquiler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-22" value="Pantalla factura de alquiler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-23" value="Pantalla encuesta por el alquiler consumido" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xcxIXfEm2XjzNP6erZau-16" target="xcxIXfEm2XjzNP6erZau-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-290" y="180" as="sourcePoint" />
+            <mxPoint x="-240" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="xcxIXfEm2XjzNP6erZau-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-380" y="280" as="sourcePoint" />
+            <mxPoint x="-100" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="xcxIXfEm2XjzNP6erZau-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-180" y="280" as="sourcePoint" />
+            <mxPoint x="-100" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="xcxIXfEm2XjzNP6erZau-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-620" y="280" as="sourcePoint" />
+            <mxPoint x="-120" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="xcxIXfEm2XjzNP6erZau-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-380" y="280" as="sourcePoint" />
+            <mxPoint x="-120" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-620" y="280" as="sourcePoint" />
+            <mxPoint x="-180" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-31" value="Pantalla gestión de equipamientos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xcxIXfEm2XjzNP6erZau-22" target="xcxIXfEm2XjzNP6erZau-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-530" y="660" as="sourcePoint" />
+            <mxPoint x="-480" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xcxIXfEm2XjzNP6erZau-31" target="xcxIXfEm2XjzNP6erZau-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-590" y="660" as="sourcePoint" />
+            <mxPoint x="-540" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-700" y="420" as="sourcePoint" />
+            <mxPoint x="-540" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="xcxIXfEm2XjzNP6erZau-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-620" y="420" as="sourcePoint" />
+            <mxPoint x="-660" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xcxIXfEm2XjzNP6erZau-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-650" y="680" as="sourcePoint" />
+            <mxPoint x="-700" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-37" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xcxIXfEm2XjzNP6erZau-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-630" y="730" as="sourcePoint" />
+            <mxPoint x="-540" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcxIXfEm2XjzNP6erZau-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xcxIXfEm2XjzNP6erZau-23" target="xcxIXfEm2XjzNP6erZau-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-400" y="690" as="sourcePoint" />
+            <mxPoint x="-350" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
